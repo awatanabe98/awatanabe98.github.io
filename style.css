@@ -7,9 +7,6 @@ body {
     padding-bottom: 3rem;
     color: #5a5a5a;
   }
-#main-image {
-    height: 32rem;
-}  
   
   /* CUSTOMIZE THE CAROUSEL
   -------------------------------------------------- */
@@ -90,4 +87,4 @@ body {
       margin-top: 7rem;
     }
   }
-  
+ 
