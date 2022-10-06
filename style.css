@@ -2,13 +2,61 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
+/* main image profile pic colors
+Scorpion
+#5B5659
+
+Tumbleweed
+#E2A789
+
+Amethyst Smoke
+#9D97BE
+
+Eagle
+#BBBCA4 */
+/*image3 louvre pic colors
+Cloud
+#CCCAC9
+
+Matterhorn
+#47393B
+
+Mid Gray
+#63656B
+
+Coffee
+#766659*/
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
-    color: #5a5a5a;
+    background-color: #CCCAC9;
+    color: #47393B
   }
-  
-  /* CUSTOMIZE THE CAROUSEL
+/* Navbar CSS */
+.container-fluid {
+    background-color: #B5B5B5;
+    border-color: #47393B;
+} 
+.nav-item a {
+    background-color: #B5B5B5;
+    color: #47393B;
+}
+/* Main intro + Card CSS */
+#intro-section {
+    background-color: #C2C0E5;
+}
+.card div {
+    background-color: #C2C0E5;
+    color: #47393B;
+}
+.btn-primary {
+    background-color: #47393B;
+}
+.btn {
+    background-color: #7087B3;
+    border: #7087B3;
+}
+/* CUSTOMIZE THE CAROUSEL
   -------------------------------------------------- */
   
   /* Carousel base class */
