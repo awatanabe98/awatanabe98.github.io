@@ -1,13 +1,25 @@
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
-
+* {
+font-family: 'IBM Plex Sans', sans-serif;
+}
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
     background-color: #A0ACD0;
     color: #272B32;
   }
+#social-profiles {
+  padding-bottom: 3rem;
+}
+#exp-header {
+  font-weight: bold;
+}
+#exp-page {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
 /* Navbar CSS */
 .container-fluid {
     background-color: #7087B3;
@@ -21,6 +33,9 @@ body {
   position: fixed;
   top: 0px;
 }
+.navbar-brand {
+  font-weight: bold;
+}
 .nav-item a {
     background-color: #7087B3;
     color: #272B32;
@@ -30,9 +45,24 @@ body {
     background-color: #7087B3;
     color: #272B32;
 }
-.card div {
+#current-and-upcoming-projects-page {
+  padding-top: 3rem;
+}
+#cup-page {
+  padding-bottom: 1rem;
+  font-weight: bold;
+}
+#soc-prof-header {
+  padding-bottom: 1rem;
+  font-weight: bold;
+}
+/*card title */
+.card-div {
     color: #272B32;
   }
+.card-title {
+  font-weight: bold;
+}
 .btn-primary {
     background-color: #272B32;
 }
