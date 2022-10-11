@@ -5,13 +5,13 @@
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
-    background-color: #C2C0E5;
-    color: #47393B
+    background-color: #A0ACD0;
+    color: #272B32;
   }
 /* Navbar CSS */
 .container-fluid {
     background-color: #7087B3;
-    border-color: #47393B;
+    border-color: #272B32;
 }
 .navbar {
   width: 100%;
@@ -23,25 +23,25 @@ body {
 }
 .nav-item a {
     background-color: #7087B3;
-    color: #47393B;
+    color: #272B32;
 }
 /* Main intro + Card CSS */
 #intro-section {
     background-color: #7087B3;
-    color: #47393B;
+    color: #272B32;
 }
 .card div {
-    color: #47393B;
+    color: #272B32;
   }
 .btn-primary {
-    background-color: #47393B;
+    background-color: #272B32;
 }
 .btn {
     background-color: #7087B3;
     border: #7087B3;
 }
 h2 {
-    color: #47393B;
+    color: #272B32;
 }
 /* CUSTOMIZE THE CAROUSEL
   -------------------------------------------------- */
